@@ -1,5 +1,5 @@
 # SnakeGame
-Made a simple snake game using Python3.10 in Pycharm.It requires 2 players to play.
+Made a simple snake game using Python3.10 in Pycharm.
 
 #Installation:
 
