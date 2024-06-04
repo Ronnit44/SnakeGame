@@ -1,5 +1,5 @@
 # SnakeGame
-Made a simple snake game using Python3.10 in Pycharm.
+Made a simple snake game using Python.
 
 #Installation:
 
